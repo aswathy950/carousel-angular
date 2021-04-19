@@ -1,6 +1,6 @@
 # Carousel
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
+This is sample carousel component generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
 
 ## Development server
 
